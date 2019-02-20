@@ -13,6 +13,8 @@ and open the template in the editor.
         <?php
         echo "HOLAMUNDO";
         echo "LO HE CAMBIAO SAECIO";
+        
+        echo "ESTO ESTA HECHO BICARBONATO";
         ?>
     </body>
 </html>
